@@ -1,7 +1,7 @@
 <?php
 include_once("templates/header.php");
 ?>
-<h1>Agenda de Contatos</h1>
+<h1>Criando Contato</h1>
 <i class="fas fa-eye "></i>
 
 <?php
