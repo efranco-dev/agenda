@@ -1,6 +1,6 @@
 <?php
 
-/* $host = "localhost";
+$host = "localhost";
 $dbname = "agenda";
 $user = "root";
 $pass = "";
@@ -14,4 +14,4 @@ try {
 } catch (PDOException $e) {
     $error = $e->getMessage();
     echo "Erro:  $error";
-} */
+}

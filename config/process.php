@@ -1,6 +1,6 @@
 <?php
 
-/* session_start();
+session_start();
 
 include_once("connection.php");
 include_once("url.php");
@@ -13,4 +13,4 @@ $stmt = $conn->prepare($query);
 
 $stmt->execute();
 
-$contacts = $stmt->fetchAll(); */
+$contacts = $stmt->fetchAll();
